@@ -1,2 +1,2 @@
-# lambda_s3_file_push
-Lambda S3 file pusher
+# Scheduled Lambda S3 file pusher
+Create Lambda function with scheduler via CloudFormation which creates simple file in S3.
